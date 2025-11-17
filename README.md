@@ -72,7 +72,6 @@
 ## 📁 Featured Projects
 
 ### 🚀 **Project 1**
-- ⭐ Stars: X |
 - 🔗 Link: https://github.com/Restarsh/roadmap.sh
 <!--
 ### 🔧 **Project 2**
