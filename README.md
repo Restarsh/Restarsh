@@ -69,17 +69,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-### 🚀 **Project 1**
-- 🔗 Link: https://github.com/Restarsh/roadmap.sh
-<!--
-### 🔧 **Project 2**
-- ⭐ Stars: X | 🛠 Stack: Python, FastAPI, etc.
-- 🔗 Link: https://github.com/Restarsh/roadmap.sh
--->
----
-
 ## 💬 Quote
 
 > *"I’m not lazy, I’m just in energy-saving mode."*  
