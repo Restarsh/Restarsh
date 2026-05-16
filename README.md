@@ -9,9 +9,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **front end projects from roadmap.sh**
-- 🌱 I’m learning **frontend / javascript**
+- 🔭 I’m currently working on **cybersecurity from roadmap.sh**
+- 🌱 I’m learning **cybersecurity**
 - 👯 I’m looking to collaborate on **Open-source / Nepal**
+- Member of CFC(Code For Change)
 - 💬 Ask me about **nothing**
 - 📫 How to reach me: **restarsh.ziq@gmail.com**
 - ⚡ Fun fact: **I can make a perfect cup of coffee… but not a perfect pull request.**
@@ -62,7 +63,7 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/amir-shrestha-0b2063390/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/amirshresthaziq/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <!--<a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://skillicons.dev/icons?i=web" /></a> -->
 </p>
