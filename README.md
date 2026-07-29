@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **cybersecurity from roadmap.sh**
 - 🌱 I’m learning **cybersecurity and some frontend**
 - 👯 I’m looking to collaborate on **Open-source / Nepal, anyone wanna hire me? I wanna feel how being a corporate slave is like!**
-- Member of CFC(Code For Change)
+-    Member of **CFC(Code For Change - Kathmandu)**
 - 💬 Ask me about **nothing or whatever interests you**
 - 📫 How to reach me: **restarsh.ziq@gmail.com**
 - ⚡ Fun fact: **I can make a perfect cup of coffee… but not a perfect pull request.**
