@@ -45,13 +45,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=restarsh&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=restarsh&theme=tokyonight" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=restarsh&layout=compact&theme=tokyonight" />
 </p>
 
 
-
+<!--
 ## 🏆 Achievements & Badges
 
 <p>
@@ -73,4 +73,4 @@
 ## 💬 Quote
 
 > *"I’m not lazy, I’m just in energy-saving mode."*  
-> — *Restarsh, probably*
+> — *amir, definitely*
