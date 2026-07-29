@@ -18,7 +18,7 @@
 - ⚡ Fun fact: **I can make a perfect cup of coffee… but not a perfect pull request.**
 
 ---
-<!--
+
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -31,6 +31,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss,django,flask,spring,prisma" />
 </p>
 
+<!--
 ### **DevOps & Cloud**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,github,git,vercel,aws,linux" />
@@ -38,19 +39,18 @@
 
 ---
 -->
-<!--
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=restarsh&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=restarsh&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=restarsh&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 
 ## 🏆 Achievements & Badges
 
