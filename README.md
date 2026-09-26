@@ -1,11 +1,18 @@
 <h1 align="center">Hi , I'm Amir</h1>
-<h3 align="center">A passionate Student from Nepal</h3>
+<h3 align="center">I'm a developer from Nepal learning by building things.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Restarsh&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
+
+## 🦀 Currently learning
+
+I'm starting my Rust journey.
+
+I'll be learning Rust in public, documenting what I learn,
+the things I struggle with, and the projects I build along the way.
 
 ## 🚀 About Me
 
